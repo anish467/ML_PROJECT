@@ -16,7 +16,7 @@ def extract_asin(url):
 # Load tokenizer and model
 @st.cache_resource
 def load_model():
-    with open("model-2.pkl", "rb") as f:
+    with open("model.pkl", "rb") as f:
         tokenizer, model = pickle.load(f)
     return tokenizer, model
 
