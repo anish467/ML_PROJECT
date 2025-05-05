@@ -39,7 +39,7 @@ if submit and url:
         tokenizer, model = load_model()
         
         # Fetch reviews from Oxylabs
-        USERNAME = 'anish467_VJanU'
+        USERNAME = 'manish467_Ryihy'
         PASSWORD = 'Air8888_8888'
 
         payload = {
