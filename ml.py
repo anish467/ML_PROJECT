@@ -39,8 +39,8 @@ if submit and url:
         tokenizer, model = load_model()
         
         # Fetch reviews from Oxylabs
-        USERNAME = 'manish467_Ryihy'
-        PASSWORD = 'Air8888_8888'
+        USERNAME = 'anany_HR0gy'
+        PASSWORD = 'Anany_10102004'
 
         payload = {
             'source': 'amazon_reviews',
